@@ -4,14 +4,14 @@
 
 <div id="socials" align="center">
     
-  <a href="telegram-url">
+  <a href="https://t.me/s1ck3r">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 ### About me
 - 🌱 I’m currently learning **Web2, Web3**
-- 📫 Reach me by [Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white), [email](mailto:explayggdd@gmail.com)
+- 📫 Reach me by [Telegram](https://t.me/s1ck3r), [email](mailto:explayggdd@gmail.com)
 - 🌍 I speak Russian
 
 ---
