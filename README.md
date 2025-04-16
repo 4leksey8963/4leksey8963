@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi, i am <a href="https://daniilshat.ru/" target="_blank">Alexey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Computer science student from Russia</h3>
+    <h1 align="center">Hi, i am <a href="https://daniilshat.ru/" target="_blank">Aleksey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Computer science student from Russia</h3>
 </div>
 
 <div id="socials" align="center">
